@@ -12,6 +12,9 @@ public class test {
 		System.out.println("github 연습중");
 		// 또 추가
 		System.out.println("git hub 연습추가");
+		
+		
+		System.out.println("변경, 추가 git pull 연습");
 	}
 
 }
