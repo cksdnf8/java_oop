@@ -10,6 +10,8 @@ public class test {
 		System.out.println("ddddd");
 		//추가
 		System.out.println("github 연습중");
+		// 또 추가
+		System.out.println("git hub 연습추가");
 	}
 
 }
